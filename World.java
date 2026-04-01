@@ -1,0 +1,9 @@
+package a202417010;
+
+public class World { 
+ 
+  public static void run() { 
+    System.out.println("202417010"); 
+  } 
+ 
+} 
